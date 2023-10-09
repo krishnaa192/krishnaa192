@@ -53,6 +53,11 @@ I am a Backend Developer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="tensorflow" alt="Tensorflow"  width="40" height="40"/>&nbsp;
 </div>
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krishnaa192&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
