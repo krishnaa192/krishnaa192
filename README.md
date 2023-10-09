@@ -61,8 +61,10 @@ I am a Backend Developer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaa192&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!-- Markdown -->
+---
 
-<img src="https://camo.githubusercontent.com/7b56962f1bb5a67d5ee37d8af47382872e42e917cd628aed1f7c44ceeecd4a5a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c34316c495342565862396752543332772f67697068792e676966"/>&nbsp;
+### :Jokes :
+<img align="center" src="https://camo.githubusercontent.com/7b56962f1bb5a67d5ee37d8af47382872e42e917cd628aed1f7c44ceeecd4a5a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c34316c495342565862396752543332772f67697068792e676966"/>&nbsp;
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
