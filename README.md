@@ -64,12 +64,14 @@ I am a Backend Developer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ---
 <div align="center" >
 <img src="https://camo.githubusercontent.com/7b56962f1bb5a67d5ee37d8af47382872e42e917cd628aed1f7c44ceeecd4a5a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c34316c495342565862396752543332772f67697068792e676966" width="300" height="300"/> &nbsp;
-  ### :Joke Of the day
-</div>
+ 
+
 <!-- Markdown -->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31xvbhnalip2adz53ncunnewvmge&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 ---
+</div>
