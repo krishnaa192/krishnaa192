@@ -17,7 +17,10 @@
 </div>
   <img src="https://komarev.com/ghpvc/?username=krishaa192&style=flat-square&color=blue" alt=""/>
   <h1>
-  hey there
+  Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+</div>
+<div align="center">
+  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWN0Zzg3Y3V6bG9lZHBlZzI2YzdlODBjOWQwcTBnb201aXU2c2FmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cnzou4ydGM7GJZ7VTz/giphy.gif)https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWN0Zzg3Y3V6bG9lZHBlZzI2YzdlODBjOWQwcTBnb201aXU2c2FmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cnzou4ydGM7GJZ7VTz/giphy.gif" width="600" height="300"/>
 </div>
