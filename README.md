@@ -55,7 +55,7 @@ I am a FullStack Developer. <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 ---
 
-### :fire: My Stats :
+### :fire: See My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krishnaa192&theme=dark&background=000000)](https://git.io/streak-stats)
 
