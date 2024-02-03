@@ -53,12 +53,12 @@ I am a FullStack Developer. <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 <div align="center" >
 
- 
+ ### : Joke Of the Day:
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!-- Markdown -->
 </div>
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
 
